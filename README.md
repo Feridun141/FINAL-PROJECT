@@ -1,5 +1,5 @@
 # Space WARS GAME
-
+## Team members: Feridun Mujde
 <img src="https://user-images.githubusercontent.com/73741033/102718259-6c92d800-4311-11eb-8ada-3126240d9757.png">
 
 ## Explanation of the game
